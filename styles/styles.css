@@ -1,0 +1,46 @@
+img{
+  border-radius: 50%;
+  float: center;
+}
+body{
+  font-family: -apple-system, BlinkMacSystemFont,
+   'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+    'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.text a{
+  color: black;
+}
+.nextpage{
+  background-color: coral;
+}
+.wrapper{
+  margin: 20px;
+}
+.text{
+  background-color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 50px;
+  border: white;
+}
+.btnTop{
+  background-color: rgb(189, 226, 86);
+}
+.card-title{
+  font-size: 30px;
+}
+.intro{
+  font-size: 20px;
+}
+.jumbotron{
+  background-color: linen;
+}
+#title{
+  font-size: 80px;
+}
+@media screen and (max-width: 480px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}

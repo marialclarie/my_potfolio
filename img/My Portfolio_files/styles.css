@@ -1,0 +1,36 @@
+.navbar{
+  color: blue;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-width: medium;
+  border-bottom: 10px;
+}
+img{
+  border-radius: 50%;
+  float: center;
+}
+body{
+  font: arial;
+}
+.text a{
+  color: black;
+}
+.nextpage{
+  background-color: coral;
+}
+.wrapper{
+  margin: 20px;
+}
+.text{
+  background-color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 50px;
+  border: white;
+}
+@media screen and (max-width: 480px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
