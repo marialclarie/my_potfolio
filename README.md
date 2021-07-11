@@ -1,5 +1,5 @@
 # My Portfolio
-#### This website is my professional portfolio. It was created on 8th February 2020
+#### This website is my professional portfolio. It was created on 11th July 2021
 
 #### By **Marial Achieng**
 
@@ -19,4 +19,4 @@ The application code is clean and has no bugs so far.
 The contributors of this code did not see it fit to include support information for this particular application because of its simplistic and straightforward nature. However, I encourage anyone interested to contribute to the code. Be free! Be you! Show me what you've got!
 ### License
 *MIT license*
-Copyright (c) 2021 **Marial Achieng** 
+Copyright (c) 2021 **Marial Achieng**
